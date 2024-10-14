@@ -1,6 +1,6 @@
 # ant-design-vue-notification-bug
 
-![issue](https://github.com/vueComponent/ant-design-vue/issues/7875)
+[issue](https://github.com/vueComponent/ant-design-vue/issues/7875)
 
 ## description
 
