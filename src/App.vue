@@ -12,6 +12,12 @@ onMounted(() => {
     description: "test",
     duration: 0,
   });
+  notification.info({
+    message: "test2",
+    description: "test2",
+    top: "80px",
+    duration: 0,
+  });
 });
 </script>
 
